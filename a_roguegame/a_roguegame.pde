@@ -1,5 +1,4 @@
 //Jake Choi
-//1-4
 
 boolean upkey, leftkey, downkey, rightkey, spacekey;
 ArrayList<GameObject> myObjects;
